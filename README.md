@@ -52,7 +52,7 @@ Nesse ano(2022), iniciei meu primeiro curso(Análise e Desenvolvimento de Sistem
 Pontualidade            Tento ser ao máximo pontual
 Proatividade            Penso no futuro 
 Adaptativo              Me adapto rapido a diversas situações
-Criativo                Tenho várias ideias em qualquer tipo de projeto
+Criativo                Tenho  em qualquer tipo de projeto
 </code></pre><div class="zeroclipboard-container position-absolute right-0 top-0">
     <clipboard-copy aria-label="Copy" class="ClipboardButton btn js-clipboard-copy m-2 p-0 tooltipped-no-delay" data-copy-feedback="Copied!" data-tooltip-direction="w" value="QUALIDADE               
 Flexibilidade         
