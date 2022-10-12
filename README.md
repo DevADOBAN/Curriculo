@@ -290,7 +290,8 @@ obs: ainda estou cursando.</p>
     <br>
 </li>
 </ul>
-<a target="_blank" rel="noopener noreferrer nofollow" href="" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://instagram.ffor11-2.fna.fbcdn.net/v/t51.2885-19/301390851_634066708015544_1110483585010023908_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.ffor11-2.fna.fbcdn.net&_nc_cat=108&_nc_ohc=E7hrYupLJe0AX8vvlgq&tn=4sqdw83DuAVhVLzA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AT-QKzSiR_TYrlBczfcha3xH6oH4MOOxNLWRhwKSPqE1Hw&oe=634D612E&_nc_sid=8fd12b" style="max-width: 100%;">
+<img width="35%" align="right" src="https://instagram.ffor11-2.fna.fbcdn.net/v/t51.2885-19/301390851_634066708015544_1110483585010023908_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.ffor11-2.fna.fbcdn.net&_nc_cat=108&_nc_ohc=E7hrYupLJe0AX8vvlgq&tn=4sqdw83DuAVhVLzA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AT-QKzSiR_TYrlBczfcha3xH6oH4MOOxNLWRhwKSPqE1Hw&oe=634D612E&_nc_sid=8fd12b" style="max-width: 100%;"></a>
 <p dir="auto">Agradeço por lerem até aqui, caso queiram <br>
 entrar em contato comigo, podem me chamar <br>
 nas minhas redes sociais abaixo. <br></p>
