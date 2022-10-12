@@ -37,11 +37,11 @@
 <h1 dir="auto"><a id="user-content--sobre-mim" class="anchor" aria-hidden="true" href="#-sobre-mim"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><img src="https://cdn3.emoji.gg/emojis/6200-pika-wink.gif" width="64px" height="64px" alt="Pika_Wink"></a>sobre mim</h1>
 <p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/107949500/193146122-ac2ca890-ee88-4909-b8d3-475ecfa9fa9f.png"><img width="25%" align="right" src="https://media.tenor.com/0znANC2b_OkAAAAM/kitagawa-marin.gif" style="max-width: 100%;"></a>
 </p>
-<p dir="auto">Olá, me chamo David tenho 18 anos, sou do Ceará, Fortaleza, e sou desenvolvedor de front end. 
+<p dir="auto">Olá, me chamo David tenho 18 anos, sou do Ceará, Fortaleza, e sou desenvolvedor de Front-End. 
 Eu sempre amei tecnologia, eu nasci numa familia simples, sempre me identifiquei nessa área, mas nunca havia programado nada. 
-Nesse ano(2022), iniciei meu primeiro curso como Analista de Sistemas, e foi um grande passo para mim no mundo da programação , minha vida pessoal, academica e profissional um grande passo e portas se abriram para mim, venho estudando varias linguagens de programação como,HTML,CSS,C#, entre outros.
+Nesse ano(2022), iniciei meu primeiro curso(Análise e Desenvolvimento de Sistemas), e foi um grande passo para mim no mundo da programação , minha vida pessoal, acadêmica e profissional, um grande passo e portas se abriram para mim, venho estudando varias linguagens de programação como,HTML,CSS,C#, entre outros.
   <a href="#-forma%C3%A7%C3%A3o-acad%C3%AAmica">
-    <g-emoji class="g-emoji" alias="notebook" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4d3.png"><img src="https://cdn3.emoji.gg/emojis/1913_Pokemon_Evolve.gif" width="64px" height="64px" alt="Pokemon_Evolve"></a></g-emoji>Formação acadêmica</a> terá informações mais completas, mas pulando para hoje e agora, tenho me orgulhado muito de mim sobre até onde cheguei, atualmente não tenho experiencia de mercado de trabalho, mas sei muito bem, me socialiazar ter agumentativos bem elaborados.
+    <g-emoji class="g-emoji" alias="notebook" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4d3.png"><img src="https://cdn3.emoji.gg/emojis/1913_Pokemon_Evolve.gif" width="64px" height="64px" alt="Pokemon_Evolve"></a></g-emoji>Formação acadêmica</a> terá informações mais completas, mas pulando para hoje e agora, venho crescendo cada vez mais meu conhecimento, atualmente não tenho experiência no mercado de trabalho, mas sei muito bem, me socialiazar e ter agumentativos bem elaborados.
     </p>
     <p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/107949500/193148120-68d584ee-5a6e-431c-8a2e-aae4aa5463a9.png"><img width="25%" align="left" src="https://c.tenor.com/py27wOFxPIsAAAAC/marin-kitagawa.gif" style="max-width: 100%;"></a>
 </p>
@@ -49,15 +49,14 @@ Nesse ano(2022), iniciei meu primeiro curso como Analista de Sistemas, e foi um 
  meus pontos fortes são que sou muito observador do que acontece em minha volta, assim aprendo mais para ser uma grande pessoa no futuro profissional.
   <p dir="auto">
 </p><div class="snippet-clipboard-content notranslate position-relative overflow-auto"><pre class="notranslate"><code>QUALIDADE               DEFEITOS
-Flexibilidade           No inicio sou timido mas com decorrer vou me socializando
-Sincero                 
-Pontualidade            
-Proatividade            
-Adaptativo
+Pontualidade            Tento ser ao máximo pontual
+Proatividade            Penso no futuro 
+Adaptativo              Me adapto rapido a diversas situações
+Criativo                Tenho várias ideias em qualquer tipo de projeto
 </code></pre><div class="zeroclipboard-container position-absolute right-0 top-0">
-    <clipboard-copy aria-label="Copy" class="ClipboardButton btn js-clipboard-copy m-2 p-0 tooltipped-no-delay" data-copy-feedback="Copied!" data-tooltip-direction="w" value="QUALIDADE               DEFEITOS
-Flexibilidade           No inicio sou timido mas com decorrer vou me socializando
-Sincero             Nunca trabalhei em empresa, mas tenho certeza que irei me adabtar rapido
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn js-clipboard-copy m-2 p-0 tooltipped-no-delay" data-copy-feedback="Copied!" data-tooltip-direction="w" value="QUALIDADE               
+Flexibilidade         
+Sincero               
 Adaptativo            Indeciso
 Proatividade          Inseguro  
 Pontualidade" tabindex="0" role="button">
@@ -212,8 +211,7 @@ obs: ainda estou cursando.</p>
 <h4 dir="auto"><a id="user-content-️-ferramentas" class="anchor" aria-hidden="true" href="#️-ferramentas"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="hammer_and_wrench" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6e0.png">🛠️</g-emoji> Ferramentas</h4>
 <p dir="auto">🠖ㅤVScode <br>
 🠖ㅤMYSLQ <br>
-🠖ㅤXAMPP <br>
-🠖ㅤFiveM <br></p>
+🠖ㅤXAMPP <br></p>
   <br>
     <br>
     <br>
