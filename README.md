@@ -48,7 +48,7 @@ Nesse ano(2022), iniciei meu primeiro curso(Análise e Desenvolvimento de Sistem
 <div align="right-center" width="100%" dir="auto">
  meus pontos fortes são que sou muito observador do que acontece em minha volta, assim aprendo mais para ser uma grande pessoa no futuro profissional.
   <p dir="auto">
-</p><div class="snippet-clipboard-content notranslate position-relative overflow-auto"><pre class="notranslate"><code>QUALIDADE               DEFEITOS
+</p><div class="snippet-clipboard-content notranslate position-relative overflow-auto"><pre class="notranslate"><code>QUALIDADE:              Descriçâo:
 Pontualidade            Tento ser ao máximo pontual
 Proatividade            Penso no futuro 
 Adaptativo              Me adapto rapido a diversas situações
