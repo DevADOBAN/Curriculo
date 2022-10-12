@@ -39,15 +39,14 @@
 </p>
 <p dir="auto">Olá, me chamo David tenho 18 anos, sou do Ceará, Fortaleza, e sou desenvolvedor de front end. 
 Eu sempre amei tecnologia, eu nasci numa familia simples, sempre me identifiquei nessa área, mas nunca havia programado nada. 
-Nesse ano(2022), iniciei meu primeiro curso como Analista de Sistemas, e foi um grande passo para mim no mundo da programação , minha vida pessoal, academica e profissional um grande passo e portas se abriram para mim, <img src="https://cdn3.emoji.gg/emojis/1913_Pokemon_Evolve.gif" width="64px" height="64px" alt="Pokemon_Evolve"></a> Formação acadêmica terá mais informação mais completas, mas pulando para hoje e agora, venho estudando varias linguagens de programação como,HTML,CSS,C#, entre outros.
-Atualmente não tenho experiencia de mercado de trabalho, mas sei muito bem, me socialiazr ter agumentativos bem elaborados
+Nesse ano(2022), iniciei meu primeiro curso como Analista de Sistemas, e foi um grande passo para mim no mundo da programação , minha vida pessoal, academica e profissional um grande passo e portas se abriram para mim, venho estudando varias linguagens de programação como,HTML,CSS,C#, entre outros.
   <a href="#-forma%C3%A7%C3%A3o-acad%C3%AAmica">
-    <g-emoji class="g-emoji" alias="notebook" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4d3.png"><img src="https://cdn3.emoji.gg/emojis/1913_Pokemon_Evolve.gif" width="64px" height="64px" alt="Pokemon_Evolve"></a></g-emoji> Formação acadêmica</a> terá mais informação mais completas, mas pulando para hoje e agora, tenho me orgulhado muito de mim sobre até onde cheguei, atualmete não tenho experiencia de mercado de trabalho, mas sei muito bem, me socialiazr ter agumentativos bem elaborados.
+    <g-emoji class="g-emoji" alias="notebook" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4d3.png"><img src="https://cdn3.emoji.gg/emojis/1913_Pokemon_Evolve.gif" width="64px" height="64px" alt="Pokemon_Evolve"></a></g-emoji>Formação acadêmica</a> terá informações mais completas, mas pulando para hoje e agora, tenho me orgulhado muito de mim sobre até onde cheguei, atualmente não tenho experiencia de mercado de trabalho, mas sei muito bem, me socialiazar ter agumentativos bem elaborados.
     </p>
     <p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/107949500/193148120-68d584ee-5a6e-431c-8a2e-aae4aa5463a9.png"><img width="25%" align="left" src="https://c.tenor.com/py27wOFxPIsAAAAC/marin-kitagawa.gif" style="max-width: 100%;"></a>
 </p>
 <div align="right-center" width="100%" dir="auto">
- meus pontos fortes de mim que sou muito observador do que acontece em minha volta, assim aprendo mais para ser uma grande pessoa no futuro profissional.
+ meus pontos fortes são que sou muito observador do que acontece em minha volta, assim aprendo mais para ser uma grande pessoa no futuro profissional.
   <p dir="auto">
 </p><div class="snippet-clipboard-content notranslate position-relative overflow-auto"><pre class="notranslate"><code>QUALIDADE               DEFEITOS
 Flexibilidade           No inicio sou timido mas com decorrer vou me socializando
@@ -145,6 +144,10 @@ Pontualidade" tabindex="0" role="button">
 <li>
 <p dir="auto"><strong>Periodo de atividades 15 de fevereiro de 2022 até 08 de julho 2024</strong> <br>
 obs: ainda estou cursando.</p>
+<li>
+<p dir="auto"> SQL <br>
+🠖ㅤTermino: Em Andamento <br></p>
+</li>
   <br>
 <br>
 </li>
@@ -204,11 +207,13 @@ obs: ainda estou cursando.</p>
 🠖ㅤJavaScript <br>
 🠖ㅤJava <br>
 🠖ㅤSQL <br>
-🠖ㅤC# <br></p>
+🠖ㅤC# <br>
+🠖ㅤ.Lua <br></p>
 <h4 dir="auto"><a id="user-content-️-ferramentas" class="anchor" aria-hidden="true" href="#️-ferramentas"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="hammer_and_wrench" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6e0.png">🛠️</g-emoji> Ferramentas</h4>
 <p dir="auto">🠖ㅤVScode <br>
-MYSLQ <br>
-XAMPP <br></p>
+🠖ㅤMYSLQ <br>
+🠖ㅤXAMPP <br>
+🠖ㅤFiveM <br></p>
   <br>
     <br>
     <br>
@@ -285,7 +290,7 @@ XAMPP <br></p>
     <br>
 </li>
 </ul>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://instagram.ffor11-2.fna.fbcdn.net/v/t51.2885-19/301390851_634066708015544_1110483585010023908_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.ffor11-2.fna.fbcdn.net&_nc_cat=108&_nc_ohc=E7hrYupLJe0AX_6CXqi&tn=4sqdw83DuAVhVLzA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AT8LcewVrbrOnj02_m3WLxLDmt7NDT2rKcFww24LWfdy8g&oe=634D612E&_nc_sid=8fd12b"><img width="35%" align="right" src="https://instagram.ffor11-2.fna.fbcdn.net/v/t51.2885-19/301390851_634066708015544_1110483585010023908_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.ffor11-2.fna.fbcdn.net&_nc_cat=108&_nc_ohc=E7hrYupLJe0AX_6CXqi&tn=4sqdw83DuAVhVLzA&edm=ALQROFkBAAAA&ccb=7-5&oh=00_AT8rTxF08DWjGX1SQ8Bp3sx22clyHLevJ0qvg5drqgBouQ&oe=634D612E&_nc_sid=30a2ef" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="" style="max-width: 100%;"></a>
 <p dir="auto">Agradeço por lerem até aqui, caso queiram <br>
 entrar em contato comigo, podem me chamar <br>
 nas minhas redes sociais abaixo. <br></p>
