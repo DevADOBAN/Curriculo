@@ -297,7 +297,7 @@ nas minhas redes sociais abaixo. <br></p>
   <img align="center" alt="Braydon's Instagram" width="32px" src="https://raw.githubusercontent.com/braydonwang/braydonwang/main/instagram.png" style="max-width: 100%;">
 </a>
 <a href="https://twitter.com/DevBolacha" rel="nofollow">
-  <img align="center" alt="Braydon's Twitter" width="32px" src="https://raw.githubusercontent.com/braydonwang/braydonwang/main/twitter.svg" style="max-width: 100%;">
+  <img align="center" alt="Braydon's Twitter" width="32px" src="https://x.com/AD0Ban" style="max-width: 100%;">
 </a>
 <a href="https://www.linkedin.com/in/david-anderson-418ab1170" rel="nofollow">
   <img align="center" alt="Braydon's LinkedIn" width="32px" src="https://raw.githubusercontent.com/braydonwang/braydonwang/main/linkedin.svg" style="max-width: 100%;">
