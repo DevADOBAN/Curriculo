@@ -37,7 +37,7 @@
 <h1 dir="auto"><a id="user-content--sobre-mim" class="anchor" aria-hidden="true" href="#-sobre-mim"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><img src="https://cdn3.emoji.gg/emojis/6200-pika-wink.gif" width="64px" height="64px" alt="Pika_Wink"></a>sobre mim</h1>
 <p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/107949500/193146122-ac2ca890-ee88-4909-b8d3-475ecfa9fa9f.png"><img width="25%" align="right" src="https://media.tenor.com/0znANC2b_OkAAAAM/kitagawa-marin.gif" style="max-width: 100%;"></a>
 </p>
-<p dir="auto">Olá, me chamo David tenho 18 anos, sou do Ceará, Fortaleza, e sou desenvolvedor de Front-End. 
+<p dir="auto">Olá, me chamo David tenho 21 anos, sou do Ceará, Fortaleza, e sou desenvolvedor de Front-End. 
 Eu sempre amei tecnologia, eu nasci numa familia simples, sempre me identifiquei nessa área, mas nunca havia programado nada. 
 Nesse ano(2022), iniciei meu primeiro curso(Análise e Desenvolvimento de Sistemas), e foi um grande passo para mim no mundo da programação , minha vida pessoal, acadêmica e profissional, um grande passo e portas se abriram para mim, venho estudando varias linguagens de programação como,HTML,CSS,C#, entre outros.
   <a href="#-forma%C3%A7%C3%A3o-acad%C3%AAmica">
@@ -104,13 +104,13 @@ Pontualidade" tabindex="0" role="button">
 <h4 dir="auto"><a id="user-content-ﾠo-que-aprendi-" class="anchor" aria-hidden="true" href="#ﾠo-que-aprendi-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="notebook" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4d3.png">📓</g-emoji>ﾠ<strong>O que aprendi:</strong> <br></h4>
 <ul dir="auto">
 <p dir="auto"> Excel <br>
-🠖ㅤInicio: 08/10/2021 🠖ㅤTermino: Não completado <br></p>
+🠖ㅤInicio: 08/10/2021 🠖ㅤTermino: Completo <br></p>
   <p dir="auto"> PowerPoint <br>
-🠖ㅤInicio: 08/05/2021 🠖ㅤTermino: Não completado <br></p>
+🠖ㅤInicio: 08/05/2021 🠖ㅤTermino: Completo <br></p>
   <p dir="auto"> Word <br>
-🠖ㅤInicio: 08/05/2021 🠖ㅤTermino: Não completado <br></p>
+🠖ㅤInicio: 08/05/2021 🠖ㅤTermino: Completo <br></p>
   <p dir="auto"> Office <br>
-🠖ㅤInicio: 08/05/2021 🠖ㅤTermino: Não completado <br></p>
+🠖ㅤInicio: 08/05/2021 🠖ㅤTermino: Completo <br></p>
 <p dir="auto"><g-emoji class="g-emoji" alias="school" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3eb.png">🏫</g-emoji>ﾠ<strong>Faculdade:</strong> <a href="https://www.estacio.br/" rel="nofollow">Estácio</a><br></p>
 </li>
 </ul>
@@ -126,26 +126,26 @@ Pontualidade" tabindex="0" role="button">
 </li>
 <li>
 <p dir="auto"> HTML5 e CSS3 <br>
-🠖ㅤTermino : Em Andamento <br></p>
+🠖ㅤTermino : Completo <br></p>
 </li>
 <li>
 <p dir="auto">JavaScript e HTML <br>
-🠖ㅤTermino: Em Andamento <br></p>
+🠖ㅤTermino: Completo <br></p>
 </li>
 <li>
 <p dir="auto">GIT e GitHub <br>
-🠖ㅤTermino: Em Andamento <br></p>
+🠖ㅤTermino: Completo <br></p>
 </li>
 <li>
 <p dir="auto">Front-end <br>
-🠖ㅤTermino: Em Andamento <br></p>
+🠖ㅤTermino: Completo <br></p>
 </li>
 <li>
-<p dir="auto"><strong>Periodo de atividades 15 de fevereiro de 2022 até 08 de julho 2024</strong> <br>
+<p dir="auto"><strong>Periodo de atividades 15 de fevereiro de 2022 até 05 de junho 2025</strong> <br>
 obs: ainda estou cursando.</p>
 <li>
 <p dir="auto"> SQL <br>
-🠖ㅤTermino: Em Andamento <br></p>
+🠖ㅤTermino: Completo <br></p>
 </li>
   <br>
 <br>
